@@ -1,0 +1,500 @@
+1	map	/mæp /	Bản đồ
+2	government	/ˈgʌvnmənt /	Chính phủ
+3	way	/weɪ /	Đường
+4	art	/ɑːt /	Nghệ thuật
+5	world	/wɜːld /	Thế giới
+6	computer	/kəmˈpjuːtə /	Máy tính
+7	people	/ˈpiːpl /	Người
+8	two	/tuː /	Hai
+9	family	/ˈfæmɪli /	Gia đình
+10	history	/ˈhɪstəri /	Lịch sử
+11	health	/hɛlθ /	Sức khỏe
+12	system	/ˈsɪstɪm /	Hệ thống
+13	information	/ˌɪnfəˈmeɪʃən /	Thông tin
+14	meat	/miːt /	Thịt
+15	year	/jɪə /	Năm
+16	thanks	/θæŋks /	Lời cảm ơn
+17	music	/ˈmjuːzɪk /	Âm nhạc
+18	person	/ˈpɜːsn /	Người
+19	reading	/ˈriːdɪŋ /	Cách đọc
+20	method	/ˈmɛθəd /	Phương pháp
+21	data	/ˈdeɪtə /	Dữ liệu
+22	food	/fuːd /	Thức ăn
+23	understanding	/ˌʌndəˈstændɪŋ /	Hiểu biết
+24	theory	/ˈθɪəri /	Lý thuyết
+25	law	/lɔː /	Pháp luật
+26	bird	/bɜːd /	Chim
+27	literature	/ˈlɪtərɪʧə /	Văn chương
+28	problem	/ˈprɒbləm /	Vấn đề
+29	software	/ˈsɒftweə /	Phần mềm
+30	control	/kənˈtrəʊl /	Kiểm soát
+31	knowledge	/ˈnɒlɪʤ /	Kiến thức
+32	power	/ˈpaʊə /	Quyền lực
+33	ability	/əˈbɪlɪti /	Khả năng
+34	economics	/ˌiːkəˈnɒmɪks /	Kinh tế học
+35	love	/lʌv /	Tình Yêu
+36	internet	/ˈɪntəˌnɛt /	Internet
+37	television	/ˈtɛlɪˌvɪʒən /	Tivi
+38	science	/ˈsaɪəns /	Khoa học
+39	library	/ˈlaɪbrəri /	Thư viện
+40	nature	/ˈneɪʧə /	Bản chất
+41	fact	/fækt /	Việc
+42	product	/ˈprɒdʌkt /	Sản phẩm
+43	idea	/aɪˈdɪə /	Ý kiến
+44	temperature	/ˈtɛmprɪʧə /	Nhiệt độ
+45	investment	/ɪnˈvɛstmənt /	Đầu tư
+46	area	/ˈeərɪə /	Khu vực
+47	society	/səˈsaɪəti /	Xã hội
+48	activity	/ækˈtɪvɪti /	Hoạt động
+49	story	/ˈstɔːri /	Câu chuyện
+50	industry	/ˈɪndəstri /	Ngành công nghiệp
+51	media	/ˈmɛdɪə /	Phương tiện truyền thông
+52	thing	/θɪŋ /	những vật
+53	oven	/ˈʌvn /	Lò nướng
+54	community	/kəˈmjuːnɪti /	Cộng đồng
+55	definition	/ˌdɛfɪˈnɪʃən /	Định nghĩa
+56	safety	/ˈseɪfti /	Sự an toàn
+57	quality	/ˈkwɒlɪti /	Chất lượng
+58	development	/dɪˈvɛləpmənt /	Phát triển
+59	language	/ˈlæŋgwɪʤ /	Ngôn ngữ
+60	management	/ˈmænɪʤmənt /	Quản lý
+61	player	/ˈpleɪə /	Người chơi
+62	variety	/vəˈraɪəti /	Nhiều
+63	video	/ˈvɪdɪəʊ /	Video
+64	week	/wiːk /	Tuần
+65	security	/sɪˈkjʊərɪti /	An ninh
+66	country	/ˈkʌntri /	Nước
+67	exam	/ɪgˈzæm /	Thi
+68	movie	/ˈmuːvi /	Phim
+69	organization	/ˌɔːgənaɪˈzeɪʃən /	Cơ quan
+70	equipment	/ɪˈkwɪpmənt /	Thiết bị
+71	physics	/ˈfɪzɪks /	Vật lý
+72	analysis	/əˈnæləsɪs /	Nghiên cứu
+73	policy	/ˈpɒlɪsi /	Chính sách
+74	series	/ˈsɪəriːz /	Loạt
+75	thought	/θɔːt /	Tư tưởng
+76	basis	/ˈbeɪsɪs /	Căn cứ
+77	boyfriend	/ˈbɔɪˌfrɛnd /	Bạn trai
+78	direction	/dɪˈrɛkʃən /	Phương hướng
+79	strategy	/ˈstrætɪʤi /	Chiến lược
+80	technology	/tɛkˈnɒləʤi /	Công nghệ
+81	army	/ˈɑːmi /	Quân đội
+82	camera	/ˈkæmərə /	Máy chụp hình
+83	freedom	/ˈfriːdəm /	Sự tự do
+84	paper	/ˈpeɪpə /	Giấy
+85	environment	/ɪnˈvaɪərənmənt /	Môi trường
+86	child	/ʧaɪld /	Trẻ em
+87	instance	/ˈɪnstəns /	Trường hợp
+88	month	/mʌnθ /	Tháng
+89	truth	/truːθ /	Sự thật
+90	marketing	/ˈmɑːkɪtɪŋ /	Thị trường
+91	university	/ˌjuːnɪˈvɜːsɪti /	Trường đại học
+92	writing	/ˈraɪtɪŋ /	Viết
+93	article	/ˈɑːtɪkl /	Điều khoản
+94	department	/dɪˈpɑːtmənt /	Bộ
+95	difference	/ˈdɪfrəns /	Khác nhau
+96	goal	/gəʊl /	Mục tiêu
+97	news	/njuːz /	Tin tức
+98	audience	/ˈɔːdjəns /	Khán giả
+99	fishing	/ˈfɪʃɪŋ /	Đánh cá
+100	growth	/grəʊθ /	Tăng trưởng
+101	income	/ˈɪnkʌm /	Lợi tức
+102	marriage	/ˈmærɪʤ /	Hôn nhân
+103	user	/ˈjuːzə /	Người sử dụng
+104	combination	/ˌkɒmbɪˈneɪʃən /	Phối hợp
+105	failure	/ˈfeɪljə /	Thất bại
+106	meaning	/ˈmiːnɪŋ /	Nghĩa
+107	medicine	/ˈmɛdsɪn /	Y học
+108	philosophy	/fɪˈlɒsəfi /	Triết học
+109	teacher	/ˈtiːʧə /	Giáo viên
+110	communication	/kəˌmjuːnɪˈkeɪʃən /	Liên lạc
+111	night	/naɪt /	Đêm
+112	chemistry	/ˈkɛmɪstri /	Hóa học
+113	disease	/dɪˈziːz /	Căn bệnh
+114	disk	/dɪsk /	Đĩa
+115	energy	/ˈɛnəʤi /	Năng lượng
+116	nation	/ˈneɪʃən /	Quốc gia
+117	road	/rəʊd /	Đường
+118	role	/rəʊl /	Vai trò
+119	soup	/suːp /	Soup
+120	advertising	/ˈædvətaɪzɪŋ /	Quảng cáo
+121	location	/ləʊˈkeɪʃən /	Vị trí
+122	success	/səkˈsɛs /	Sự thành công
+123	addition	/əˈdɪʃ(ə)n /	Thêm vào
+124	apartment	/əˈpɑːtmənt /	Căn hộ
+125	education	/ˌɛdju(ː)ˈkeɪʃən /	Sự giáo dục
+126	math	/mæθ /	Toán học
+127	moment	/ˈməʊmənt /	Chốc lát
+128	painting	/ˈpeɪntɪŋ /	Bức tranh
+129	politics	/ˈpɒlɪtɪks /	Chính trị
+130	attention	/əˈtɛnʃ(ə)n /	Chú ý
+131	decision	/dɪˈsɪʒən /	Phán quyết
+132	event	/ɪˈvɛnt /	Biến cố
+133	property	/ˈprɒpəti /	Bất động sản
+134	shopping	/ˈʃɒpɪŋ /	Muasắm
+135	student	/ˈstjuːdənt /	Sinh viên
+136	wood	/wʊd /	Gỗ
+137	competition	/ˌkɒmpɪˈtɪʃən /	Cuộc thi
+138	distribution	/ˌdɪstrɪˈbjuːʃən /	Phân phát
+139	entertainment	/ˌɛntəˈteɪnmənt /	Giải trí
+140	office	/ˈɒfɪs /	Văn phòng
+141	population	/ˌpɒpjʊˈleɪʃən /	Dân số
+142	president	/ˈprɛzɪdənt /	Chủ tịch
+143	unit	/ˈjuːnɪt /	Đơn vị
+144	category	/ˈkætɪgəri /	Thể loại
+145	cigarette	/ˌsɪgəˈrɛt /	Thuốc lá
+146	context	/ˈkɒntɛkst /	Bối cảnh
+147	introduction	/ˌɪntrəˈdʌkʃən /	Sự giới thiệu
+148	opportunity	/ˌɒpəˈtjuːnɪti /	Cơ hội
+149	performance	/pəˈfɔːməns /	Hiệu suất
+150	driver	/ˈdraɪvə /	Người lái xe
+151	flight	/flaɪt /	Chuyến bay
+152	length	/lɛŋθ /	Chiều dài
+153	magazine	/ˌmægəˈziːn /	Tạp chí
+154	newspaper	/ˈnjuːzˌpeɪpə /	Báo
+155	relationship	/rɪˈleɪʃənʃɪp /	Mối quan hệ
+156	teaching	/ˈtiːʧɪŋ /	Giảng dạy
+157	cell	/sɛl /	Tế bào
+158	dealer	/ˈdiːlə /	Người chia bài
+159	debate	/dɪˈbeɪt /	Tranh luận
+160	finding	/ˈfaɪndɪŋ /	Phát hiện
+161	lake	/leɪk /	Hồ
+162	member	/ˈmɛmbə /	Thành viên
+163	message	/ˈmɛsɪʤ /	Thông điệp
+164	phone	/fəʊn /	Điện thoại
+165	scene	/siːn /	Sân khấu
+166	appearance	/əˈpɪərəns /	Xuất hiện
+167	association	/əˌsəʊsɪˈeɪʃ(ə)n /	Sự kết hợp
+168	concept	/ˈkɒnsɛpt /	Khái niệm
+169	customer	/ˈkʌstəmə /	Khách hàng
+170	death	/dɛθ /	Sự chết
+171	discussion	/dɪsˈkʌʃən /	Thảo luận
+172	housing	/ˈhaʊzɪŋ /	Nhà ở
+173	inflation	/ɪnˈfleɪʃən /	Sự lạm phát
+174	insurance	/ɪnˈʃʊərəns /	Bảo hiểm
+175	mood	/muːd /	Khí sắc
+176	woman	/ˈwʊmən /	Đàn bà
+177	advice	/ədˈvaɪs /	Lời khuyên
+178	blood	/blʌd /	Máu
+179	effort	/ˈɛfət /	Cố gắng
+180	expression	/ɪksˈprɛʃən /	Biểu hiện
+181	importance	/ɪmˈpɔːtəns /	Tầm quan trọng
+182	opinion	/əˈpɪnjən /	Ý kiến
+183	payment	/ˈpeɪmənt /	Thanh toán
+184	reality	/ri(ː)ˈælɪti /	Thực tế
+185	responsibility	/rɪsˌpɒnsəˈbɪlɪti /	Trách nhiệm
+186	situation	/ˌsɪtjʊˈeɪʃən /	Tình hình
+187	skill	/skɪl /	Kỹ năng
+188	statement	/ˈsteɪtmənt /	Tuyên bố
+189	wealth	/wɛlθ /	Sự giàu có
+190	application	/ˌæplɪˈkeɪʃ(ə)n /	Ứng dụng
+191	city	/ˈsɪti /	Thành phố
+192	county	/ˈkaʊnti /	Quận
+193	depth	/dɛpθ /	Chiều sâu
+194	estate	/ɪsˈteɪt /	Tài sản
+195	foundation	/faʊnˈdeɪʃən /	Nền tảng
+196	grandmother	/ˈgrænˌmʌðə /	Bà ngoại
+197	heart	/hɑːt /	Tim
+198	perspective	/pəˈspɛktɪv /	Quan điểm
+199	photo	/ˈfəʊtəʊ /	Ảnh
+200	recipe	/ˈrɛsɪpi /	Công thức
+201	studio	/ˈstjuːdɪəʊ /	Phòng thu
+202	topic	/ˈtɒpɪk /	Chủ đề
+203	collection	/kəˈlɛkʃən /	Bộ sưu tập
+204	depression	/dɪˈprɛʃən /	Phiền muộn
+205	imagination	/ɪˌmæʤɪˈneɪʃən /	Sự tưởng tượng
+206	passion	/ˈpæʃən /	Tình yêu
+207	percentage	/pəˈsɛntɪʤ /	Tỷ lệ phần trăm
+208	resource	/rɪˈsɔːs /	Tài nguyên
+209	setting	/ˈsɛtɪŋ /	Thiết lập
+210	ad	/æd /	Quảng cáo
+211	agency	/ˈeɪʤənsi /	Đại lý
+212	college	/ˈkɒlɪʤ /	Trường đại học
+213	connection	/kəˈnɛkʃən /	Liên quan
+214	criticism	/ˈkrɪtɪsɪzm /	Sự chỉ trích
+215	debt	/dɛt /	Nợ nần
+216	description	/dɪsˈkrɪpʃən /	Miêu tả
+217	memory	/ˈmɛməri /	Trí nhớ
+218	patience	/ˈpeɪʃəns /	Kiên nhẫn
+219	secretary	/ˈsɛkrətri /	Thư ký
+220	solution	/səˈluːʃən /	Dung dịch
+221	administration	/ədˌmɪnɪsˈtreɪʃ(ə)n /	Quyền quản trị
+222	aspect	/ˈæspɛkt /	Diện mạo
+223	attitude	/ˈætɪtjuːd /	Thái độ
+224	director	/dɪˈrɛktə /	Giám đốc
+225	personality	/ˌpɜːsəˈnælɪti /	Nhân cách
+226	psychology	/saɪˈkɒləʤi /	Tâm lý học
+227	recommendation	/ˌrɛkəmɛnˈdeɪʃən /	Khuyến nghị
+228	response	/rɪsˈpɒns /	Câu trả lời
+229	selection	/sɪˈlɛkʃən /	Sự lựa chọn
+230	storage	/ˈstɔːrɪʤ /	Lưu trữ
+231	version	/ˈvɜːʃən /	Phiên bản
+232	alcohol	/ˈælkəhɒl /	Rượu
+233	argument	/ˈɑːgjʊmənt /	Đối số
+234	complaint	/kəmˈpleɪnt /	Lời phàn nàn
+235	contract	/ˈkɒntrækt /	Hợp đồng
+236	emphasis	/ˈɛmfəsɪs /	Sự nhấn mạnh
+237	highway	/ˈhaɪweɪ /	Xa lộ
+238	loss	/lɒs /	Sự mất
+239	membership	/ˈmɛmbəʃɪp /	Thành viên
+240	possession	/pəˈzɛʃən /	Sở hữu
+241	preparation	/ˌprɛpəˈreɪʃən /	Sự chuẩn bị
+242	steak	/steɪk /	Miếng bò hầm
+243	union	/ˈjuːnjən /	Liên hiệp
+244	agreement	/əˈgriːmənt /	Sự đồng ý
+245	cancer	/ˈkænsə /	Ung thư
+246	currency	/ˈkʌrənsi /	Tiền tệ
+247	employment	/ɪmˈplɔɪmənt /	Việc làm
+248	engineering	/ˌɛnʤɪˈnɪərɪŋ /	Kỹ thuật
+249	entry	/ˈɛntri /	Lối vào
+250	interaction	/ˌɪntərˈækʃən /	Tương tác
+251	limit	/ˈlɪmɪt /	Giới hạn
+252	mixture	/ˈmɪksʧə /	Hỗn hợp
+253	preference	/ˈprɛfərəns /	Sự ưa thích
+254	region	/ˈriːʤən /	Vùng
+255	republic	/rɪˈpʌblɪk /	Nước cộng hòa
+256	seat	/siːt /	Ghế
+257	tradition	/trəˈdɪʃən /	Truyền thống
+258	virus	/ˈvaɪərəs /	Virus
+259	actor	/ˈæktə /	Diễn viên
+260	classroom	/ˈklɑːsrʊm /	Lớp học
+261	delivery	/dɪˈlɪvəri /	Giao hàng
+262	device	/dɪˈvaɪs /	Thiết bị
+263	difficulty	/ˈdɪfɪkəlti /	Khó khăn
+264	drama	/ˈdrɑːmə /	Kịch
+265	election	/ɪˈlɛkʃən /	Sựu bầu cử
+266	engine	/ˈɛnʤɪn /	Động cơ
+267	football	/ˈfʊtbɔːl /	Bóng đá
+268	guidance	/ˈgaɪdəns /	Hướng dẫn
+269	hotel	/həʊˈtɛl /	Khách sạn
+270	match	/mæʧ /	Trận đấu
+271	owner	/ˈəʊnə /	Chủ nhân
+272	priority	/praɪˈɒrɪti /	Quyền ưu tiên
+273	protection	/prəˈtɛkʃən /	Sự bảo vệ
+274	suggestion	/səˈʤɛsʧən /	Gợi ý
+275	tension	/ˈtɛnʃən /	Sức ép
+276	variation	/ˌveərɪˈeɪʃən /	Sự biến đổi
+277	anxiety	/æŋˈzaɪəti /	Lo ngại
+278	atmosphere	/ˈætməsfɪə /	Không khí
+279	awareness	/əˈweənəs /	Nhận thức
+280	bread	/brɛd /	Bánh mì
+281	climate	/ˈklaɪmɪt /	Khí hậu
+282	comparison	/kəmˈpærɪsn /	Sự so sánh
+283	confusion	/kənˈfjuːʒən /	Nhầm lẫn
+284	construction	/kənˈstrʌkʃən /	Xây dựng
+285	elevator	/ˈɛlɪveɪtə /	Thang máy
+286	emotion	/ɪˈməʊʃən /	Xúc động
+287	employee	/ˌɛmplɔɪˈiː /	Công nhân
+288	employer	/ɪmˈplɔɪə /	Sử dụng lao động
+289	guest	/gɛst /	Khách
+290	height	/haɪt /	Chiều cao
+291	leadership	/ˈliːdəʃɪp /	Lãnh đạo
+292	mall	/mɔːl /	Trung tâm muasắm
+293	manager	/ˈmænɪʤə /	Người quản lý
+294	operation	/ˌɒpəˈreɪʃən /	Hoạt động
+295	recording	/rɪˈkɔːdɪŋ /	Ghi âm
+296	respect	/rɪsˈpɛkt /	Tôn trọng
+297	sample	/ˈsɑːmpl /	Mẫu
+298	transportation	/ˌtrænspɔːˈteɪʃən /	Giao thông vận tải
+299	boring	/ˈbɔːrɪŋ /	Chán nản
+300	charity	/ˈʧærɪti /	Bố thí
+301	cousin	/ˈkʌzn /	Anh em họ
+302	disaster	/dɪˈzɑːstə /	Thảm họa
+303	editor	/ˈɛdɪtə /	Biên tập viên
+304	efficiency	/ɪˈfɪʃənsi /	Hiệu quả
+305	excitement	/ɪkˈsaɪtmənt /	Phấn khích
+306	extent	/ɪksˈtɛnt /	Mức độ
+307	feedback	/ˈfiːdbæk /	Thông tin phản hồi
+308	guitar	/gɪˈtɑː /	Đàn guitar
+309	homework	/ˈhəʊmˌwɜːk /	Bài tập về nhà
+310	leader	/ˈliːdə /	Lãnh đạo
+311	mom	/mɒm /	Mẹ
+312	outcome	/ˈaʊtkʌm /	Kết quả
+313	permission	/pəˈmɪʃən /	Sự cho phép
+314	presentation	/ˌprɛzɛnˈteɪʃən /	Trình bày
+315	promotion	/prəˈməʊʃən /	Khuyến mãi
+316	reflection	/rɪˈflɛkʃən /	Sự phản xạ
+317	refrigerator	/rɪˈfrɪʤəreɪtə /	Tủ lạnh
+318	resolution	/ˌrɛzəˈluːʃən /	Độ phân giải
+319	revenue	/ˈrɛvɪnjuː /	Lợi tức
+320	session	/ˈsɛʃən /	Buổi họp
+321	singer	/ˈsɪŋə /	Ca sĩ
+322	tennis	/ˈtɛnɪs /	Quần vợt
+323	basket	/ˈbɑːskɪt /	Cái giỏ
+324	bonus	/ˈbəʊnəs /	Tiền thưởng
+325	cabinet	/ˈkæbɪnɪt /	Buồng
+326	childhood	/ˈʧaɪldhʊd /	Thời thơ ấu
+327	church	/ʧɜːʧ /	Nhà thờ
+328	clothes	/kləʊðz /	Quần áo
+329	coffee	/ˈkɒfi /	Cà phê
+330	dinner	/ˈdɪnə /	Bữa tối
+331	drawing	/ˈdrɔːɪŋ /	Bản vẽ
+332	hair	/heə /	Tóc
+333	hearing	/ˈhɪərɪŋ /	Thính giác
+334	initiative	/ɪˈnɪʃɪətɪv /	Sáng kiến
+335	judgment	/ˈʤʌʤmənt /	Án
+336	lab	/læb /	Phòng thí nghiệm
+337	measurement	/ˈmɛʒəmənt /	Sự đo lường
+338	mode	/məʊd /	Chế độ
+339	mud	/mʌd /	Bùn
+340	orange	/ˈɒrɪnʤ /	Trái cam
+341	poetry	/ˈpəʊɪtri /	Thơ phú
+342	police	/pəˈliːs /	Cảnh sát
+343	possibility	/ˌpɒsəˈbɪlɪti /	Khả năng
+344	procedure	/prəˈsiːʤə /	Phương pháp
+345	queen	/kwiːn /	Nữ hoàng
+346	ratio	/ˈreɪʃɪəʊ /	Tỉ lệ
+347	relation	/rɪˈleɪʃən /	Quan hệ
+348	restaurant	/ˈrɛstrɒnt /	Nhà hàng
+349	satisfaction	/ˌsætɪsˈfækʃən /	Sự hài lòng
+350	sector	/ˈsɛktə /	Khu vực
+351	signature	/ˈsɪgnɪʧə /	Chữ ký
+352	significance	/sɪgˈnɪfɪkəns /	Ý nghĩa
+353	song	/sɒŋ /	Bài hát
+354	tooth	/tuːθ /	Răng
+355	town	/taʊn /	Thành phố
+356	vehicle	/ˈviːɪkl /	Xe cộ
+357	volume	/ˈvɒljʊm /	Thể tích
+358	wife	/waɪf /	Vợ
+359	accident	/ˈæksɪdənt /	Tai nạn
+360	airport	/ˈeəpɔːt /	Sân bay
+361	appointment	/əˈpɔɪntmənt /	Cuộc hẹn
+362	arrival	/əˈraɪvəl /	Đến
+363	assumption	/əˈsʌmpʃ(ə)n /	Giả định
+364	baseball	/ˈbeɪsbɔːl /	Bóng chày
+365	chapter	/ˈʧæptə /	Chương
+366	committee	/kəˈmɪti /	Ủy ban
+367	conversation	/ˌkɒnvəˈseɪʃən /	Đàm thoại
+368	database	/ˈdeɪtəˌbeɪs /	Cơ sở dữ liệu
+369	enthusiasm	/ɪnˈθjuːzɪæzm /	Hăng hái
+370	error	/ˈɛrə /	Lỗi
+371	explanation	/ˌɛkspləˈneɪʃən /	Giải thích
+372	farmer	/ˈfɑːmə /	Nông dân
+373	gate	/geɪt /	Cửa
+374	girl	/gɜːl /	Cô gái
+375	hall	/hɔːl /	Đại sảnh
+376	historian	/hɪsˈtɔːrɪən /	Sử gia
+377	hospital	/ˈhɒspɪtl /	Bệnh viện
+378	injury	/ˈɪnʤəri /	Vết thương
+379	instruction	/ɪnˈstrʌkʃən /	Hướng dẫn
+380	maintenance	/ˈmeɪntənəns /	Bảo trì
+381	manufacturer	/ˌmænjʊˈfækʧərə /	Nhà chế tạo
+382	meal	/miːl /	Bữa ăn
+383	perception	/pəˈsɛpʃən /	Sự nhận thức
+384	pie	/paɪ /	Bánh
+385	poem	/ˈpəʊɪm /	Bài thơ
+386	presence	/ˈprɛzns /	Sự hiện diện
+387	proposal	/prəˈpəʊzəl /	Đề nghị
+388	reception	/rɪˈsɛpʃən /	Tiếp nhận
+389	replacement	/rɪˈpleɪsmənt /	Sự thay thế
+390	revolution	/ˌrɛvəˈluːʃən /	Cuộc cách mạng
+391	river	/ˈrɪvə /	Sông
+392	son	/sʌn /	Con trai
+393	speech	/spiːʧ /	Lời nói
+394	tea	/tiː /	Trà
+395	village	/ˈvɪlɪʤ /	Làng
+396	warning	/ˈwɔːnɪŋ /	Cảnh báo
+397	winner	/ˈwɪnə /	Người chiến thắng
+398	worker	/ˈwɜːkə /	Công nhân
+399	writer	/ˈraɪtə /	Nhà văn
+400	assistance	/əˈsɪstəns /	Hỗ trợ
+401	breath	/brɛθ /	Hơi thở
+402	buyer	/ˈbaɪə /	Người mua
+403	chest	/ʧɛst /	Ngực
+404	chocolate	/ˈʧɒkəlɪt /	Sôcôla
+405	conclusion	/kənˈkluːʒən /	Phần kết luận
+406	contribution	/ˌkɒntrɪˈbjuːʃən /	Sự đóng góp
+407	cookie	/ˈkʊki /	Cookie
+408	courage	/ˈkʌrɪʤ /	Lòng can đảm
+409	dad	/dæd /	Cha
+410	desk	/dɛsk /	Bàn giấy
+411	drawer	/ˈdrɔːə /	Ngăn kéo
+412	establishment	/ɪsˈtæblɪʃmənt /	Thành lập
+413	examination	/ɪgˌzæmɪˈneɪʃən /	Kiểm tra
+414	garbage	/ˈgɑːbɪʤ /	Đống rác
+415	grocery	/ˈgrəʊsəri /	Tạp hóa
+416	honey	/ˈhʌni /	Mật ong
+417	impression	/ɪmˈprɛʃən /	Ấn tượng
+418	improvement	/ɪmˈpruːvmənt /	Sự cải thiện
+419	independence	/ˌɪndɪˈpɛndəns /	Độc lập
+420	insect	/ˈɪnsɛkt /	Côn trùng
+421	inspection	/ɪnˈspɛkʃən /	Sự kiểm tra
+422	inspector	/ɪnˈspɛktə /	Viên thanh tra
+423	king	/kɪŋ /	Vua
+424	ladder	/ˈlædə /	Thang
+425	menu	/ˈmɛnjuː /	Thực đơn
+426	penalty	/ˈpɛnlti /	Hình phạt
+427	piano	/pɪˈænəʊ /	Dương cầm
+428	potato	/pəˈteɪtəʊ /	Khoai tây
+429	profession	/prəˈfɛʃən /	Nghề nghiệp
+430	professor	/prəˈfɛsə /	Giáo sư
+431	quantity	/ˈkwɒntɪti /	Số lượng
+432	reaction	/ri(ː)ˈækʃən /	Sự phản ứng
+433	requirement	/rɪˈkwaɪəmənt /	Yêu cầu
+434	salad	/ˈsæləd /	Xà lách
+435	sister	/ˈsɪstə /	Chị
+436	supermarket	/ˈsjuːpəˌmɑːkɪt /	Siêu thị
+437	tongue	/tʌŋ /	Lưỡi
+438	weakness	/ˈwiːknɪs /	Yếu đuối
+439	wedding	/ˈwɛdɪŋ /	Kết hôn
+440	affair	/əˈfeə /	Việc
+441	ambition	/æmˈbɪʃ(ə)n /	Tham vọng
+442	analyst	/ˈænəlɪst /	Phân tích
+443	apple	/ˈæpl /	Táo
+444	assignment	/əˈsaɪnmənt /	Phân công
+445	assistant	/əˈsɪstənt /	Phụ tá
+446	bathroom	/ˈbɑːθru(ː)m /	Phòng tắm
+447	bedroom	/ˈbɛdru(ː)m /	Phòng ngủ
+448	beer	/bɪə /	Bia
+449	birthday	/ˈbɜːθdeɪ /	Ngày sinh nhật
+450	celebration	/ˌsɛlɪˈbreɪʃən /	Lễ kỷ niệm
+451	championship	/ˈʧæmpjənʃɪp /	Chức vô địch
+452	cheek	/ʧiːk /	Gò má
+453	client	/ˈklaɪənt /	Khách hàng
+454	consequence	/ˈkɒnsɪkwəns /	Kết quả
+455	departure	/dɪˈpɑːʧə /	Khởi hành
+456	diamond	/ˈdaɪəmənd /	Kim cương
+457	dirt	/dɜːt /	Bụi
+458	ear	/ɪə /	Tai
+459	fortune	/ˈfɔːʧən /	Vận may
+460	friendship	/ˈfrɛndʃɪp /	Tình bạn
+461	funeral	/ˈfjuːnərəl /	Đám ma
+462	gene	/ʤiːn /	Gen
+463	girlfriend	/ˈgɜːlˌfrɛnd /	Bạn gái
+464	hat	/hæt /	Mũ
+465	indication	/ˌɪndɪˈkeɪʃən /	Dấu hiệu
+466	intention	/ɪnˈtɛnʃən /	Mục đích
+467	lady	/ˈleɪdi /	Phụ nữ
+468	midnight	/ˈmɪdnaɪt /	Nữa đêm
+469	negotiation	/nɪˌgəʊʃɪˈeɪʃən /	Đàm phán
+470	obligation	/ˌɒblɪˈgeɪʃən /	Nghĩa vụ
+471	passenger	/ˈpæsɪnʤə /	Hành khách
+472	pizza	/ˈpiːtsə /	Bánh pizza
+473	platform	/ˈplætfɔːm /	Nền tảng
+474	poet	/ˈpəʊɪt /	Thi sĩ
+475	pollution	/pəˈluːʃən /	Ô nhiễm
+476	recognition	/ˌrɛkəgˈnɪʃən /	Sự công nhận
+477	reputation	/ˌrɛpju(ː)ˈteɪʃən /	Danh tiếng
+478	shirt	/ʃɜːt /	Áo sơ mi
+479	sir	/sɜː /	Ngài
+480	speaker	/ˈspiːkə /	Loa
+481	stranger	/ˈstreɪnʤə /	Người lạ
+482	surgery	/ˈsɜːʤəri /	Phẫu thuật
+483	sympathy	/ˈsɪmpəθi /	Thông cảm
+484	tale	/teɪl /	Truyện
+485	throat	/θrəʊt /	Họng
+486	trainer	/ˈtreɪnə /	Huấn luyện viên
+487	uncle	/ˈʌŋkl /	Chú
+488	youth	/juːθ /	Tuổi trẻ
+489	time	/taɪm /	Thời gian
+490	work	/wɜːk /	Công việc
+491	film	/fɪlm /	Phim ảnh
+492	water	/ˈwɔːtə /	Nước
+493	money	/ˈmʌni /	Tiền
+494	example	/ɪgˈzɑːmpl /	Thí dụ
+495	while	/waɪl /	Trong khi
+496	business	/ˈbɪznɪs /	Kinh doanh
+497	study	/ˈstʌdi /	Nghiên cứu
+498	game	/geɪm /	Trò chơi
+499	life	/laɪf /	Đời sống
+500	form	/fɔːm /	Hình thức
